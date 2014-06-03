@@ -1,0 +1,27 @@
+{
+        "name": "meerkat/meerkat-sf-jquery",
+        "type": "kohana-module",
+        "description": "StaticFiles library for MeerkatCMF (on Kohana 3.3)",
+        "homepage": "http://jquery.com/",
+		"license": "MIT",
+        "keywords": ["kohana", "module", "meerkat", "static-files"],
+        "authors": [
+                {
+                        "name": "The jQuery Team",
+                        "homepage": "https://jquery.org/team/",
+                        "role": "Developer"
+                },		
+                {
+                        "name": "Alexey Berdnikov",
+                        "email": "aberdnikov@gmail.com",
+                        "homepage": "https://github.com/aberdnikov",
+                        "role": "Module maintainer"
+                }
+        ],
+        "require": {
+                "php": ">=5.3",
+                "composer/installers": "*",
+                "meerkat/meerkat-staticfiles": "*",
+                "meerkat/meerkat-route": "*"
+        }		
+ }
