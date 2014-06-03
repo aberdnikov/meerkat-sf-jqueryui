@@ -1,14 +1,14 @@
 {
-        "name": "meerkat/meerkat-sf-jquery",
+        "name": "meerkat/meerkat-sf-jqueryui",
         "type": "kohana-module",
         "description": "StaticFiles library for MeerkatCMF (on Kohana 3.3)",
-        "homepage": "http://jquery.com/",
+        "homepage": "http://jqueryui.com/",
 		"license": "MIT",
         "keywords": ["kohana", "module", "meerkat", "static-files"],
         "authors": [
                 {
-                        "name": "The jQuery Team",
-                        "homepage": "https://jquery.org/team/",
+                        "name": "The jQueryUI Team",
+                        "homepage": "http://jqueryui.com/about/",
                         "role": "Developer"
                 },		
                 {
